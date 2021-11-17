@@ -201,7 +201,7 @@ p{
 
 /*hero  section*/
 #hero{
-    background-image: url(img/girl.jpg);
+    background-image: url(/girl.jpg);
     background-size: cover;
     background-position:top center ;
     position: relative;
@@ -297,7 +297,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(img/laptop.jpg);
+    background-image: url(/laptop.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
